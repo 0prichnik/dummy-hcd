@@ -1,4 +1,4 @@
-# dummy-hcd
+# dummy_hcd
 
 DKMS for Dummy/Loopback USB host and device emulator driver.
 
