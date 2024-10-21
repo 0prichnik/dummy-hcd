@@ -1,5 +1,5 @@
 # dummy-hcd
-В своё время меня очень выручил репоизторий RushOnline/dummy-hcd (https://github.com/RushOnline/dummy-hcd), когда мне нужно было быстро подключить модуль dummy_hcd, и я сделал для себя копию этого репозитория. На всякий случай.
+В своё время меня очень выручил репозиторий RushOnline/dummy-hcd (https://github.com/RushOnline/dummy-hcd), когда мне нужно было быстро подключить модуль dummy_hcd, и я сделал для себя копию этого репозитория. На всякий случай.
 
 DKMS for Dummy/Loopback USB host and device emulator driver.
 
